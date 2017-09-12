@@ -1,11 +1,10 @@
 Package: VoteR
-Title: What the Package Does (one line, title case)
+Title: Easily Read Your Voter Files
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends:
-    R (>= 3.3.2)
+Authors@R: person("Tyler", "Richards", email = "tylerjrichards@gmail.com", role = c("aut", "cre"))
+Description: State voter files are notoriously annoying and difficult to read into R, and this is prohibitively difficult for young and budding researchers switching from SAS or Excel. This package is an attempt to lessen that burden. As I get a hold of more voter files, I will update this package accordingly. 
+Depends: R (>= 3.4.1)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 5.0.1
+RoxygenNote: 6.0.1
